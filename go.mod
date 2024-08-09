@@ -1,3 +1,3 @@
-module github.com/buker/go-basic-template
+module github.com/buker/todo-local
 
 go 1.22.5
